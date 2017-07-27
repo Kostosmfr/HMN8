@@ -1,0 +1,9 @@
+calculation\Operation.class
+calculation\OpMultiple.class
+calculation\OperationFactory.class
+calculation\Input.class
+calculation\Calculation.class
+calculation\OpDivision.class
+calculation\OpMinus.class
+calculation\OpPlus.class
+calculation\MyOperationFactory.class
